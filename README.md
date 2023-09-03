@@ -8,3 +8,5 @@
 <img src="countiesGVA.png" width="200" height="200">| Ceremonial counties in England by GVA (gross value added) 2013 [OC]
 <img src="unis.png" width="200" height="300">| The number of top 500 universities in each UK county [OC]
 <img src="worth.png" width="400" height="200">| 10 people are worth more than all these countries combined [OC]
+
+OG links can be found on my reddit.
